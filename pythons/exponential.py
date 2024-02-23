@@ -1,0 +1,5 @@
+a = int(input(" enter any one number\n"))
+# a = int(a)
+b = input(" enter the power \n")
+# b = int(b)
+print("the exponential of a and b is ",a**b)

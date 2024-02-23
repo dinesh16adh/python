@@ -1,0 +1,10 @@
+# countries = ("spain","nepal","india","hello","world")
+# temp = list(countries)
+# temp.append("mali")
+# temp.pop(3)
+# temp[2] = "finland"
+# countries =tuple(temp)
+# print(countries)
+tuple = (1,2,3,4,5,6,3,4,6,7)
+res = tuple.index(3,4,8)
+print(res)

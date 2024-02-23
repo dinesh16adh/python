@@ -1,0 +1,8 @@
+a = int(input("enter a numbers\n"))
+b = int(input("enter a numbers\n"))
+print(f"the addition of {a} and {b}: is {a+b}")
+print(f"the subtraction of {a} and {b} is {a-b}")
+print(f"the division of{a} and {b} is  {a/b}")
+print(f"the multiplication of {a} and {b} is {a*b}")
+print(f"the modular of {a} and {b} is {a % b}")
+print(f"the exponential of {a} and {b} is {a**b}")

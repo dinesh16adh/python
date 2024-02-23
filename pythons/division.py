@@ -1,0 +1,6 @@
+a = input("enter any words\n")
+# a = int(a)
+b = input("enter any words\n")
+# b = int(b)
+# print("the division of the two numbers is ",a/b)
+print(a/b)
