@@ -7,5 +7,5 @@
 # c = input("enter any words\n")
 # mul = a*c
 # print(mul)
-a,b = input(" any two number\n")
-print("the multiplication the a and b is ",a*b)
+a, b = input(" any two number\n")
+print("the multiplication the a and b is ", a * b)

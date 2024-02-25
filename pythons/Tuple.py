@@ -1,4 +1,4 @@
-tup = (1,2,3,4,"hello")
+tup = (1, 2, 3, 4, "hello")
 # print(type(tup),tup)
 print(tup[0])
 print(tup[2])

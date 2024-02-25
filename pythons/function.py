@@ -17,7 +17,9 @@
 
 # my_family("Dinesh","ajit","hello")
 
-def multiply(a,b,c):
-    return a*b*c
 
-print(multiply(2,3,4))
+def multiply(a, b, c):
+    return a * b * c
+
+
+print(multiply(2, 3, 4))

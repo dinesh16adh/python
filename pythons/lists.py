@@ -1,4 +1,4 @@
-l = [1,2,3,"Dinesh","adhikari","pokhara",True]
+l = [1, 2, 3, "Dinesh", "adhikari", "pokhara", True]
 # print(l)
 # print(type(l))
 #  print(l[-1])

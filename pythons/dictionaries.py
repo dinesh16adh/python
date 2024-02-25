@@ -1,7 +1,4 @@
-dic ={
-    "name": "Dinesh Adhikari",
-    "age": 22
-}
+dic = {"name": "Dinesh Adhikari", "age": 22}
 # print(dic["age"])
 # print(dic.get("name"))
 # print(dic.keys())

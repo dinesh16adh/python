@@ -5,6 +5,6 @@
 # temp[2] = "finland"
 # countries =tuple(temp)
 # print(countries)
-tuple = (1,2,3,4,5,6,3,4,6,7)
-res = tuple.index(3,4,8)
+tuple = (1, 2, 3, 4, 5, 6, 3, 4, 6, 7)
+res = tuple.index(3, 4, 8)
 print(res)
