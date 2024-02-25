@@ -7,4 +7,4 @@ dic ={
 # print(dic.keys())
 for i in dic.keys():
     print(f"the value of element {i} is {dic[i]}")
-print(dic.values())
+# print(dic.values())
