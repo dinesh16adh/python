@@ -5,3 +5,12 @@ a = input("hello enter one value ")
 # b
 b = int(a)
 print(b, type(b))
+c = input("hello enter one value ")
+# print(type(a))
+# a = int(a)
+# print(a,type(a))
+# b
+c = float(c)
+print(c, type(c))
+c = str(c)
+print(c, print(c))
