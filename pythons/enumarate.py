@@ -11,6 +11,6 @@
 #     print(f"{index}: {marks}")
 #     if index == 3:
 #         print("wow!")
-a = (100, 200, 300, 400, 500)
+a = [100, 200, 300, 400, 500]
 y = enumerate(a)
 print(y)
