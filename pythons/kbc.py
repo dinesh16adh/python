@@ -35,8 +35,6 @@ for i in questions:
         break
 
 print(count)
-
-
 # print(count)
 # print(len(questions))
 # for i in range(0, len(questions)):
