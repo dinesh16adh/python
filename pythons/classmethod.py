@@ -2,14 +2,18 @@ class Newclass:
     name = "dinesh"
 
     def func(self):
-        print(f"h4ello world {self.name}")
+        print(f"hello {self.name}")
 
-    def func1(self, address):
-        print(f"are you from {address}")
+    @classmethod
+    def func1(cls, newname):
+        cls.name = newname
+        # print(f"are you from {cls.newaddress}")
 
 
 obj = Newclass()
-obj.name = "hello"
+# obj.name = "hello"
+# obj.func()
+# print(Newclass.name)
+obj.func1("Dinesh")
 obj.func()
-print(Newclass.name)
-obj.func1("hello")
+# obj.N
